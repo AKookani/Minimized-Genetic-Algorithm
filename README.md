@@ -1,0 +1,1 @@
+# Minimized-Genetic-Algorithm
